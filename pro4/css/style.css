@@ -1,0 +1,23 @@
+.container .row hr{
+    height:4px !important;
+    width:20%;
+    color: hsl(239deg 80% 53%);
+   
+    opacity:1;
+    margin-left:3px ;
+    margin-bottom:50px ;
+    margin-top: 0px;
+   
+   
+}
+
+
+.icons span{
+    border:2px solid;
+    border-radius: 50%;
+    padding :5px;
+    margin:5px;
+   border-color:rgb(26, 16, 180);
+   
+}
+
